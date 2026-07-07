@@ -6,11 +6,17 @@ The template is based on a finished Hualien travel guide demo, but the implement
 
 ![City travel site preview](docs/preview.png)
 
-## Live Demo
+## Demo Sites
 
-Original demo site:
+Original Hualien demo:
 
-https://hualien-855.netlify.app
+- Live: https://hualien-855.netlify.app
+- Repo: https://github.com/Lu1a1a/HUALIEN_PJ
+
+Derived Taitung demo created from this template:
+
+- Live: https://taitung-guide.netlify.app
+- Repo: https://github.com/Lu1a1a/TAITUNG_PJ
 
 ## Stack
 
